@@ -1,0 +1,14 @@
+D:\DOTnet\Assignment_1\StudentManagerLinQ\bin\Debug\net8.0\StudentManagerLinQ.exe
+D:\DOTnet\Assignment_1\StudentManagerLinQ\bin\Debug\net8.0\StudentManagerLinQ.deps.json
+D:\DOTnet\Assignment_1\StudentManagerLinQ\bin\Debug\net8.0\StudentManagerLinQ.runtimeconfig.json
+D:\DOTnet\Assignment_1\StudentManagerLinQ\bin\Debug\net8.0\StudentManagerLinQ.dll
+D:\DOTnet\Assignment_1\StudentManagerLinQ\bin\Debug\net8.0\StudentManagerLinQ.pdb
+D:\DOTnet\Assignment_1\StudentManagerLinQ\obj\Debug\net8.0\StudentManagerLinQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTnet\Assignment_1\StudentManagerLinQ\obj\Debug\net8.0\StudentManagerLinQ.AssemblyInfoInputs.cache
+D:\DOTnet\Assignment_1\StudentManagerLinQ\obj\Debug\net8.0\StudentManagerLinQ.AssemblyInfo.cs
+D:\DOTnet\Assignment_1\StudentManagerLinQ\obj\Debug\net8.0\StudentManagerLinQ.csproj.CoreCompileInputs.cache
+D:\DOTnet\Assignment_1\StudentManagerLinQ\obj\Debug\net8.0\StudentManagerLinQ.dll
+D:\DOTnet\Assignment_1\StudentManagerLinQ\obj\Debug\net8.0\refint\StudentManagerLinQ.dll
+D:\DOTnet\Assignment_1\StudentManagerLinQ\obj\Debug\net8.0\StudentManagerLinQ.pdb
+D:\DOTnet\Assignment_1\StudentManagerLinQ\obj\Debug\net8.0\StudentManagerLinQ.genruntimeconfig.cache
+D:\DOTnet\Assignment_1\StudentManagerLinQ\obj\Debug\net8.0\ref\StudentManagerLinQ.dll

@@ -1,0 +1,41 @@
+ID,LastName,FirstName,DateOfBirth,Gender,PlaceOfBirth,Mobile,IsGraduated
+21001566,Nguyen, The Manh,2003-10-23,Male,Vinh Phuc,0961571026,False
+21001567,Nguyen, Tran Quang Manh,2002-01-10,Male,Ha Tinh,0971774408,False
+21001568,Nguyen, Ngoc Minh,2001-02-28,Female,Ha Noi,0886433788,False
+21000206,Nguyen, Tuan Minh,2000-12-10,Male,Ha Noi,0936251128,False
+21001569,Le, Dinh Nam,2003-02-16,Male,Thanh Hoa,0365105559,False
+21000394,Pham, Hoai Nam,2002-09-23,Male,Ha Noi,0333297610,False
+21000254,Tran, Tri Nam,2001-02-05,Male,Ha Noi,0969545934,False
+21001571,Le, Van Ngoc,2000-02-09,Male,Ha Tinh,0819890938,False
+21001572,Nguyen, Hong Nguyen,1999-11-20,Male,Thai Nguyen,0962587054,False
+21001573,Nguyen, Duc Nhat,1998-10-05,Male,Nghe An,0394737440,False
+21000200,Nguyen, Mai Phuong,1997-10-04,Female,Ha Noi,0888358853,False
+21000398,Pham, Tran Tien Quang,1996-10-09,Male,Ha Noi,0936074453,False
+21001575,Pham, Hong Quan,1995-08-30,Male,Quang Binh,0386059599,True
+21001576,Quang, Minh Quoc,1994-06-05,Male,Son La,0393079925,False
+21001577,Luong, Mai Quynh,1993-02-02,Female,Thanh Hoa,0365105559,False
+21000201,Do, Hoang Son,1992-09-07,Male,Ha Noi,0971685003,False
+21001578,Hoang, Minh Son,1991-09-01,Male,Vinh Phuc,0966742376,False
+21001579,Pham, Hung Son,1990-05-15,Male,Ha Noi,0865377659,False
+21001580,Doan, Duc Tai,2003-05-10,Male,Nam Dinh,0983125110,False
+21001581,Nguyen, Dong Tri Tam,2002-09-05,Male,Hung Yen,0326432983,True
+21001582,Nguyen, Huu Tan,2001-11-05,Male,Bac Ninh,354295137,False
+21001583,Nguyen, Xuan Minh Thai,2000-12-24,Male,Ha Noi,0984940698,False
+21001584,Tran, Duy Thanh,2003-11-18,Male,Nghe An,0817251564,False
+21001585,Nguyen, Minh Thao,2002-07-02,Male,Thanh Hoa,0879513329,True
+21001586,Dang, Dinh Thang,2001-11-20,Male,Hai Phong,0383850621,False
+21001587,Vu, Bao Thang,2009-08-23,Male,Hai Phong,0862869903,False
+21001588,Le, Thanh Thien,1999-12-01,Female,Tien Giang,0886551117,False
+21001590,Do, Van Thuan,1998-01-29,Male,Nam Dinh,942586798,False
+21001591,Do, Thi Trang,1997-09-14,Female,Thanh Hoa,0585740655,False
+21001592,Lo, Thi Trang,1996-07-14,Female,Son La,0372126660,True
+21001593,Phan, Thi Thu Trang,1995-10-10,Female,Thai Binh,0967889129,False
+21000401,Nguyen, Minh Tri,1994-11-09,Male,Nghe An,0963714222,False
+21001595,Duong, Minh Tuan,1992-08-15,Male,Hai Duong,0363859060,False
+21000204,Ha, Minh Tuan,1991-11-19,Male,Ha Noi,0334525988,False
+21001596,Tran, Trong Tuan,1990-03-24,Male,Son La,0966083922,False
+21001597,Hoang, Thanh Tung,2003-05-03,Male,Thanh Hoa,0799030245,False
+21001598,Le, Quoc Viet,2002-12-25,Male,Ha Noi,0364854619,True
+21001600,Bui, Minh Vu,2001-03-19,Male,Hung Yen,0945102523,False
+21001601,Le, Minh Vu,2000-03-26,Male,Lao Cai,0916078659,False
+21000203,Nguyen, Duc Kien Trung,2003-11-17,Male,Ha Noi,09862839710,False
