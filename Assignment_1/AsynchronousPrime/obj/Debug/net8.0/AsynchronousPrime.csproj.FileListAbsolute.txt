@@ -1,0 +1,15 @@
+D:\DOTnet\Assignment_1\AsynchronousPrime\bin\Debug\net8.0\AsynchronousPrime.exe
+D:\DOTnet\Assignment_1\AsynchronousPrime\bin\Debug\net8.0\AsynchronousPrime.deps.json
+D:\DOTnet\Assignment_1\AsynchronousPrime\bin\Debug\net8.0\AsynchronousPrime.runtimeconfig.json
+D:\DOTnet\Assignment_1\AsynchronousPrime\bin\Debug\net8.0\AsynchronousPrime.dll
+D:\DOTnet\Assignment_1\AsynchronousPrime\bin\Debug\net8.0\AsynchronousPrime.pdb
+D:\DOTnet\Assignment_1\AsynchronousPrime\obj\Debug\net8.0\AsynchronousPrime.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTnet\Assignment_1\AsynchronousPrime\obj\Debug\net8.0\AsynchronousPrime.AssemblyInfoInputs.cache
+D:\DOTnet\Assignment_1\AsynchronousPrime\obj\Debug\net8.0\AsynchronousPrime.AssemblyInfo.cs
+D:\DOTnet\Assignment_1\AsynchronousPrime\obj\Debug\net8.0\AsynchronousPrime.csproj.CoreCompileInputs.cache
+D:\DOTnet\Assignment_1\AsynchronousPrime\obj\Debug\net8.0\AsynchronousPrime.sourcelink.json
+D:\DOTnet\Assignment_1\AsynchronousPrime\obj\Debug\net8.0\AsynchronousPrime.dll
+D:\DOTnet\Assignment_1\AsynchronousPrime\obj\Debug\net8.0\refint\AsynchronousPrime.dll
+D:\DOTnet\Assignment_1\AsynchronousPrime\obj\Debug\net8.0\AsynchronousPrime.pdb
+D:\DOTnet\Assignment_1\AsynchronousPrime\obj\Debug\net8.0\AsynchronousPrime.genruntimeconfig.cache
+D:\DOTnet\Assignment_1\AsynchronousPrime\obj\Debug\net8.0\ref\AsynchronousPrime.dll
