@@ -229,7 +229,8 @@ namespace StudentManagement
         static DateTime PromptForDate(string message)
         {
             Console.Write(message);
-            return DateTime.ParseExact(Console.ReadLine(), new[] { "yyyy-MM-dd", "dd/MM/yyyy" }, CultureInfo.InvariantCulture, DateTimeStyles.None);
+            return DateTime.ParseExact(Console.ReadLine(), new[] { "yyyy-MM-dd", "dd/MM/yyyy" }, 
+            CultureInfo.InvariantCulture, DateTimeStyles.None);
         }
 
         static bool PromptForBool(string message)
@@ -251,5 +252,6 @@ namespace StudentManagement
         public bool IsGraduated { get; set; }
         public int Age => DateTime.Now.Year - DateOfBirth.Year;
     }
+    
 }
 

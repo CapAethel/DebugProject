@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AsynchronousPrime")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d238734a7ba06a9732f3d787d399c2124c192cf4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b0b5285cce5d62c306ebc40fcd98079479021ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("AsynchronousPrime")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AsynchronousPrime")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
